@@ -1,0 +1,66 @@
+body{
+    font-family: 'Itim',cursive;
+    background-color: #433c91;
+    color: #f7f7f7;
+}
+h1{
+    font-weight: 550;
+}
+.icon a {
+    color: #285e61;
+
+}
+
+.icon a:hover {
+    color: #6bdde3;
+    text-decoration: none;
+}
+
+
+
+a {
+    color: #441f47;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #9c48a3;
+}
+.icon {
+    font-size: 2em;
+    margin-right: 1em;
+    margin-top: -0.3em;
+    display: inline-block;
+
+}
+
+.bio {
+    margin-top: 1em;
+    padding-left: 2em;
+}
+
+#profile-img {
+    width: 100%;
+    border-radius: 25%;
+    max-width: 300px;
+    margin: auto;
+}
+#box-img-1 {
+    width: 100%;
+    border-radius: 25%;
+    max-width: 240px;
+    margin: auto;
+    margin-top: 16%;
+}
+#box-img {
+    width: 100%;
+    border-radius: 25%;
+    max-width: 240px;
+    margin: auto;
+    margin-top: 15%;
+}
+
+.content {
+    width: 80%;
+    margin-top: 10%;
+}
